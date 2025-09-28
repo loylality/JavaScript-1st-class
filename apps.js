@@ -1,16 +1,17 @@
-// function myFuction() {
-//     alert("Ami parbo")
-// }
-// var x, y, z;
-// x = 45;
-// y = 45;
-// total = x + y;
-// var minus = x - y;
-// var mul = x * y
-// document.write(x + "+" + y + "=" + total + "</br>" + x + "-" + y + "=" + minus + "</br>" + x + "x" + y + "=" + mul + "</br>");
-// var Sname = "Raz";
-// var Sroll = 02;
-// document.write("I am " + Sname + "." + "My roll is" + Sroll);
-var roll = 500;
-var name = " kawsar";
-console.log(roll + name)
+var x, y, z;
+x = 150;
+y = 250;
+
+var total = x + y;
+var minus = x - y;
+var mul = x * y;
+var devide = x / y
+document.write(x + "+" + y + "=" + total + "</br>")
+document.write(x + "-" + y + "=" + minus + "</br>")
+document.write(x + "*" + y + "=" + mul + "</br>")
+document.write(x + "/" + y + "=" + devide + "</br>")
+var Sname = "KAWSAR"
+var nroll = 220;
+document.write("My roll is" + nroll + "</br>")
+document.write("My name is " + Sname)
+
